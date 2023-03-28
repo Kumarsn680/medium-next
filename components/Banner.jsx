@@ -10,8 +10,8 @@ const Banner = () => {
           is a place to write, read, and connect
         </h3>
         <h6>
-          It's easy and free to post on any topic and connect with millions of
-          readers
+          `It's easy and free to post on any topic and connect with millions of
+          readers`
         </h6>
       </div>
       <div className="hidden md:flex">
