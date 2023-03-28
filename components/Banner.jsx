@@ -6,8 +6,7 @@ const Banner = () => {
       <div className="w-full flex flex-col items-center py-10 max-w-xl md:w-4/5 lg:w-1/2 px-4 ">
         <h3 className="text-6xl  mb-4 font-serif ">
           <span className="underline">Medium</span>
-          <span> </span>
-          {`is a place to write&sbquo; read&sbquo; and connect`}
+          <span>is a place to write&sbquo; read&sbquo; and connect</span>
         </h3>
         <h6>
           It&apos;s easy and free to post on any topic and connect with millions
